@@ -22,7 +22,3 @@ pyttsx3 (Text-to-Speech)
 Wikipedia API
 smtplib (Email sending)
 webbrowser (Open websites)
-
-Future Improvements:
-Add more complex commands (e.g., handling calendar events).
-Integrate with APIs for weather and news updates.
